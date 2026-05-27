@@ -27,8 +27,8 @@
     {
       "id": 1,
       "name": "Acesso ao Site Autel.com",
-      "dest": "Gestão BR",
-      "desc": "Solicitação do Acesso ao Dados do Site para alteração de dados de distribuidores e endereço do site.",
+      "dest": "",
+      "desc": "Solicitação do Acesso ao Dados do Site para alteração de dados de distribuidores e endereÃ§o do site.",
       "obs": "",
       "status": "Aguardando",
       "date": "2026-05-25"
