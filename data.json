@@ -1,5 +1,17 @@
 {
-  "tasks": [],
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Recuperação | LinkedIn Autel",
+      "cat": "Redes Socias",
+      "status": "Concluído",
+      "prio": "Alta",
+      "done": "Recuperado Acesso de Super Administrador do LinkedIn, reativando acesso ao Linkedin Autel Brasil",
+      "todo": "",
+      "pct": 100,
+      "date": "2026-05-21"
+    }
+  ],
   "reqs": [
     {
       "id": 1,
