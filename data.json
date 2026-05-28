@@ -21,6 +21,17 @@
       "todo": "",
       "pct": 100,
       "date": "2026-05-22"
+    },
+    {
+      "id": 3,
+      "name": "Programação de Conteúdos | Autel Brasil",
+      "cat": "Redes Socias",
+      "status": "Concluído",
+      "prio": "Alta",
+      "done": "Programação de todos os conteúdos do mês de Maio nas Redes Sociais da Autel Brasil.",
+      "todo": "",
+      "pct": 100,
+      "date": "2026-05-25"
     }
   ],
   "reqs": [
