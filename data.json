@@ -48,9 +48,9 @@
   "reqs": [
     {
       "id": 1,
-      "name": "Acesso ao Site Autel.com",
+      "name": "Acesso ao Site Autel.com/br/",
       "dest": "Gestão BR",
-      "desc": "Solicitação de Acesso",
+      "desc": "Solicitação de Acesso para edição de dados de endereço e alteração de distribuidores no site Autel.com/br/",
       "obs": "",
       "status": "Aguardando",
       "date": "2026-05-25"
