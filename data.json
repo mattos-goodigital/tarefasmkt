@@ -98,6 +98,17 @@
       "todo": "",
       "pct": 0,
       "date": ""
+    },
+    {
+      "id": 10,
+      "name": "Abertura de Vaga | Representante Comercial Autel Energy",
+      "cat": "",
+      "status": "Em andamento",
+      "prio": "Alta",
+      "done": "",
+      "todo": "",
+      "pct": 0,
+      "date": ""
     }
   ],
   "reqs": []
