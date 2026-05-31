@@ -1,16 +1,4 @@
 {
-  "tasks": [
-    {
-      "id": 2,
-      "name": "Teste 2",
-      "cat": "",
-      "status": "Em andamento",
-      "prio": "Alta",
-      "done": "",
-      "todo": "",
-      "pct": 0,
-      "date": ""
-    }
-  ],
+  "tasks": [],
   "reqs": []
 }
