@@ -21,6 +21,17 @@
       "todo": "Solicitção de Acesso Super Admin ao LinkedIn após todos saírem da página",
       "pct": 100,
       "date": "2026-05-22"
+    },
+    {
+      "id": 3,
+      "name": "Programação de Conteúdos | Autel Brasil",
+      "cat": "Redes Socias",
+      "status": "Concluído",
+      "prio": "Alta",
+      "done": "Programação de Conteúdos nas Redes Sociais Autel Brasil",
+      "todo": "",
+      "pct": 100,
+      "date": "2026-05-25"
     }
   ],
   "reqs": []
