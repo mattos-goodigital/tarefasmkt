@@ -10,6 +10,17 @@
       "todo": "",
       "pct": 100,
       "date": "2026-05-21"
+    },
+    {
+      "id": 2,
+      "name": "Recuperação LinkedIn | Autel Energy",
+      "cat": "Redes Socias",
+      "status": "Concluído",
+      "prio": "Alta",
+      "done": "Solicitção de Acesso Super Admin ao LinkedIn após todos saírem da página",
+      "todo": "Solicitção de Acesso Super Admin ao LinkedIn após todos saírem da página",
+      "pct": 100,
+      "date": "2026-05-22"
     }
   ],
   "reqs": []
