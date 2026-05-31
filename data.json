@@ -65,6 +65,17 @@
       "todo": "Não foram encontrados distribuidores ativos. Aguardando confirmação sobre se é possível criar a loja e depois cadastrar os distribuidores.",
       "pct": 70,
       "date": "2026-05-29"
+    },
+    {
+      "id": 7,
+      "name": "Cartão de Visita e Assinatura de E-mail | Autel Brasil e Energy",
+      "cat": "Endomarketing",
+      "status": "Em andamento",
+      "prio": "Alta",
+      "done": "Material já desenvolvido.",
+      "todo": "Aguardando Amostra Gráfica",
+      "pct": 20,
+      "date": "2026-05-26"
     }
   ],
   "reqs": []
