@@ -120,6 +120,17 @@
       "todo": "",
       "pct": 0,
       "date": ""
+    },
+    {
+      "id": 12,
+      "name": "Planejamento | Intersolar 2026 (Autel Energy)",
+      "cat": "",
+      "status": "Em andamento",
+      "prio": "Alta",
+      "done": "",
+      "todo": "",
+      "pct": 0,
+      "date": ""
     }
   ],
   "reqs": []
