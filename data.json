@@ -76,6 +76,17 @@
       "todo": "Aguardando Amostra Gráfica",
       "pct": 20,
       "date": "2026-05-26"
+    },
+    {
+      "id": 8,
+      "name": "Fechamento Parceria | Canal Solar (Autel Energy)",
+      "cat": "Parceria Comercial",
+      "status": "Em andamento",
+      "prio": "Alta",
+      "done": "Análise do Plano | Reunião de Alinhamento | Solicitação de Plano Alternatvo",
+      "todo": "Solicitado Cota Prata para análise. Aguardando Ok César",
+      "pct": 90,
+      "date": "2026-05-29"
     }
   ],
   "reqs": []
