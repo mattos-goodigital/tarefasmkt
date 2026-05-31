@@ -32,6 +32,17 @@
       "todo": "",
       "pct": 100,
       "date": "2026-05-25"
+    },
+    {
+      "id": 4,
+      "name": "Programação de Conteúdos | Autel Energy",
+      "cat": "Redes Socias",
+      "status": "Em andamento",
+      "prio": "Alta",
+      "done": "Programação de Conteúdos nas Redes Sociais Autel Energy",
+      "todo": "",
+      "pct": 100,
+      "date": "2026-05-25"
     }
   ],
   "reqs": []
