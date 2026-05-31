@@ -54,6 +54,17 @@
       "todo": "",
       "pct": 100,
       "date": "2026-05-27"
+    },
+    {
+      "id": 6,
+      "name": "Capa de Produtos e Imagens de Categoria (Shopee)",
+      "cat": "E-commerce",
+      "status": "Bloqueado",
+      "prio": "Média",
+      "done": "Desenvolver imagens para loja oficial da Autel na Shoppe.",
+      "todo": "Não foram encontrados distribuidores ativos. Aguardando confirmação sobre se é possível criar a loja e depois cadastrar os distribuidores.",
+      "pct": 70,
+      "date": "2026-05-29"
     }
   ],
   "reqs": []
