@@ -1,4 +1,16 @@
 {
-  "tasks": [],
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Recuperação | LinkedIn Autel",
+      "cat": "Redes Socias",
+      "status": "Concluído",
+      "prio": "Alta",
+      "done": "Solicitção de Acesso Super Admin ao LinkedIn após todos saírem da página",
+      "todo": "",
+      "pct": 100,
+      "date": "2026-05-21"
+    }
+  ],
   "reqs": []
 }
