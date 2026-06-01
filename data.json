@@ -153,6 +153,17 @@
       "todo": "",
       "pct": 0,
       "date": ""
+    },
+    {
+      "id": 15,
+      "name": "Abertura de Vaga | Técnico Pós-Venda",
+      "cat": "Redes Socias",
+      "status": "Concluído",
+      "prio": "Alta",
+      "done": "Captação de CV via LinkedIn.",
+      "todo": "",
+      "pct": 100,
+      "date": "2026-05-22"
     }
   ],
   "reqs": [
