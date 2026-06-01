@@ -57,9 +57,9 @@
     },
     {
       "id": 6,
-      "name": "Capa de Produtos e Imagens de Categoria (Shopee)",
+      "name": "Projeto Shopee Autel | Loja Oficial",
       "cat": "E-commerce",
-      "status": "Bloqueado",
+      "status": "Em andamento",
       "prio": "Média",
       "done": "Desenvolver imagens para loja oficial da Autel na Shoppe.",
       "todo": "Evento no dia 08/06 para os distribuidores para informar o novo canal de vendas Online Oficial (Shopee). Criar forms com Nome do Distribuidor, do Responsável e Telefone. Criar Copy, Arte e forms. Validar e Disparar",
