@@ -164,6 +164,17 @@
       "todo": "",
       "pct": 100,
       "date": "2026-05-22"
+    },
+    {
+      "id": 16,
+      "name": "Apresentação | Diagnóstico EV (Workshop Canal VE)",
+      "cat": "Apresentação",
+      "status": "Pendente",
+      "prio": "Alta",
+      "done": "",
+      "todo": "",
+      "pct": 0,
+      "date": "2026-06-05"
     }
   ],
   "reqs": [
