@@ -113,13 +113,13 @@
     {
       "id": 11,
       "name": "Planejamento | Autop 2026 (Autel Brasil)",
-      "cat": "",
+      "cat": "Evento",
       "status": "Em andamento",
       "prio": "Alta",
-      "done": "",
-      "todo": "",
-      "pct": 0,
-      "date": ""
+      "done": "Planejamento | Apresentação | Central de Custos",
+      "todo": "Receber orçamentos faltantes e Apresentar",
+      "pct": 70,
+      "date": "2026-06-03"
     },
     {
       "id": 12,
