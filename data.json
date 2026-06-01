@@ -164,6 +164,15 @@
       "obs": "",
       "status": "Aguardando",
       "date": ""
+    },
+    {
+      "id": 2,
+      "name": "Contratação Canal VE",
+      "dest": "Matriz China",
+      "desc": "",
+      "obs": "Enviado para César Solicitação de Contratação.",
+      "status": "Aguardando",
+      "date": "2026-06-01"
     }
   ]
 }
