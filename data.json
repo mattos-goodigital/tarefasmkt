@@ -81,11 +81,11 @@
       "id": 8,
       "name": "Fechamento Parceria | Canal Solar (Autel Energy)",
       "cat": "Parceria Comercial",
-      "status": "Em andamento",
+      "status": "Concluído",
       "prio": "Alta",
-      "done": "Análise do Plano | Reunião de Alinhamento | Solicitação de Plano Alternatvo",
-      "todo": "Solicitado Cota Prata para análise. Aguardando Ok César",
-      "pct": 90,
+      "done": "Análise do Plano | Reunião de Alinhamento | Solicitação de Plano Alternativo. Solicitado Cota Prata para análise. Aguardando Ok César",
+      "todo": "",
+      "pct": 100,
       "date": "2026-05-29"
     },
     {
