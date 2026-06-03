@@ -175,6 +175,17 @@
       "todo": "",
       "pct": 0,
       "date": "2026-06-05"
+    },
+    {
+      "id": 17,
+      "name": "Programação de Conteúdos | Autel Br e Autel Energy (Junho)",
+      "cat": "Redes Socias",
+      "status": "Concluído",
+      "prio": "Alta",
+      "done": "Programados conteúdos nas páginas referente ao mês de Julho",
+      "todo": "",
+      "pct": 100,
+      "date": "2026-06-03"
     }
   ],
   "reqs": [
