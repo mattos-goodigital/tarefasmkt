@@ -169,11 +169,11 @@
       "id": 16,
       "name": "Apresentação | Diagnóstico EV (Workshop Canal VE)",
       "cat": "Apresentação",
-      "status": "Em andamento",
+      "status": "Concluído",
       "prio": "Alta",
       "done": "",
-      "todo": "",
-      "pct": 0,
+      "todo": "Augusto Aprovar",
+      "pct": 100,
       "date": "2026-06-05"
     },
     {
