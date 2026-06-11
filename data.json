@@ -186,6 +186,17 @@
       "todo": "",
       "pct": 100,
       "date": "2026-06-03"
+    },
+    {
+      "id": 18,
+      "name": "Comunicação | Representante Comercial Autel Energy",
+      "cat": "Redes Socias",
+      "status": "Concluído",
+      "prio": "Média",
+      "done": "Arte e Google Forms para captação de Currículos",
+      "todo": "",
+      "pct": 100,
+      "date": "2026-06-10"
     }
   ],
   "reqs": [
