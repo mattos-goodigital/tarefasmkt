@@ -94,9 +94,9 @@
       "cat": "",
       "status": "Pendente",
       "prio": "Alta",
-      "done": "",
-      "todo": "",
-      "pct": 0,
+      "done": "Arte já aprovada",
+      "todo": "Orçamento de Impressão + Aplicação",
+      "pct": 50,
       "date": ""
     },
     {
