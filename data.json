@@ -186,6 +186,17 @@
       "todo": "",
       "pct": 100,
       "date": "2026-06-11"
+    },
+    {
+      "id": 20,
+      "name": "Arte - Painel Zampar",
+      "cat": "Design",
+      "status": "Concluído",
+      "prio": "Alta",
+      "done": "Arte para Painel Zampar",
+      "todo": "--",
+      "pct": 100,
+      "date": "2026-06-25"
     }
   ],
   "reqs": [
