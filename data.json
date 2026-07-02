@@ -197,6 +197,17 @@
       "todo": "--",
       "pct": 100,
       "date": "2026-06-25"
+    },
+    {
+      "id": 21,
+      "name": "Comunicado| PMA Shopee",
+      "cat": "Design",
+      "status": "Em andamento",
+      "prio": "Média",
+      "done": "",
+      "todo": "",
+      "pct": 0,
+      "date": "2026-07-02"
     }
   ],
   "reqs": [
